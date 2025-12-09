@@ -1,0 +1,50 @@
+/*body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background: #f4f6fb;
+}
+
+h1 {
+    color: #2a4f8e;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f7e8ff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #6a00a3;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 12px rgba(0,0,0,0.2);
+}
+
+th {
+    background: #c77dff;
+    color: white;
+    padding: 12px;
+    font-size: 18px;
+}
+
+td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    font-size: 16px;
+}
+
+tr:hover {
+    background: #f3d9ff;
+}
